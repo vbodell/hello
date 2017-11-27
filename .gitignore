@@ -1,0 +1,8 @@
+#gitignore
+.gitignore
+
+#object files
+*.o
+
+#Prog file
+hello

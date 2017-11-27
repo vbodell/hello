@@ -1,0 +1,12 @@
+# Hello
+
+## Author
+  Victor Bodell (sbodell@calpoly.edu)
+
+## How to run
+  1. Compile with 'make' or 'make hello'
+  2. Run with ./hello, or make a test run with 'make test'
+
+## Other Instructions
+  You guessed it, this just prints "Hello, world!".
+  Can also serve as a pleasant template for new projects.
